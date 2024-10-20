@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+           <h2>Inshallah We are own the match</h2>
           </a>
         </div>
       </main>
